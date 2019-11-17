@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\ScrabbleScore.deps.json
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\ScrabbleScore.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\ScrabbleScore.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\ScrabbleScore.dll
+C:\Users\FredJ\Exercism\csharp\scrabble-score\bin\Debug\netcoreapp2.1\ScrabbleScore.pdb
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.dll
+C:\Users\FredJ\Exercism\csharp\scrabble-score\obj\Debug\netcoreapp2.1\ScrabbleScore.pdb

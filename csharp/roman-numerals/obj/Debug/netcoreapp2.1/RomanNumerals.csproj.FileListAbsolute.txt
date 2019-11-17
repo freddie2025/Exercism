@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.deps.json
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.dll
+C:\Users\FredJ\Exercism\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.pdb
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.dll
+C:\Users\FredJ\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.pdb

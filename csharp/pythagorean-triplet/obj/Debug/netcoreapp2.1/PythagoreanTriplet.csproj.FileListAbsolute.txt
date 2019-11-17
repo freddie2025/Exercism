@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\PythagoreanTriplet.deps.json
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\PythagoreanTriplet.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\PythagoreanTriplet.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\PythagoreanTriplet.dll
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\bin\Debug\netcoreapp2.1\PythagoreanTriplet.pdb
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.dll
+C:\Users\FredJ\Exercism\csharp\pythagorean-triplet\obj\Debug\netcoreapp2.1\PythagoreanTriplet.pdb

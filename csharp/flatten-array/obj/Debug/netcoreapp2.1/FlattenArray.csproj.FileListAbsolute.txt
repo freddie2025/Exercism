@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\FlattenArray.deps.json
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\FlattenArray.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\FlattenArray.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\FlattenArray.dll
+C:\Users\FredJ\Exercism\csharp\flatten-array\bin\Debug\netcoreapp2.1\FlattenArray.pdb
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.dll
+C:\Users\FredJ\Exercism\csharp\flatten-array\obj\Debug\netcoreapp2.1\FlattenArray.pdb

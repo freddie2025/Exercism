@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\ResistorColor.deps.json
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\ResistorColor.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\ResistorColor.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\ResistorColor.dll
+C:\Users\FredJ\Exercism\csharp\resistor-color\bin\Debug\netcoreapp2.1\ResistorColor.pdb
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.dll
+C:\Users\FredJ\Exercism\csharp\resistor-color\obj\Debug\netcoreapp2.1\ResistorColor.pdb

@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\Meetup.deps.json
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\Meetup.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\Meetup.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\Meetup.dll
+C:\Users\FredJ\Exercism\csharp\meetup\bin\Debug\netcoreapp2.1\Meetup.pdb
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.dll
+C:\Users\FredJ\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.pdb

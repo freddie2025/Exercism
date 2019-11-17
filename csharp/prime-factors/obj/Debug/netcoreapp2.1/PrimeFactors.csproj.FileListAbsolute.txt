@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\PrimeFactors.deps.json
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\PrimeFactors.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\PrimeFactors.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\PrimeFactors.dll
+C:\Users\FredJ\Exercism\csharp\prime-factors\bin\Debug\netcoreapp2.1\PrimeFactors.pdb
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.dll
+C:\Users\FredJ\Exercism\csharp\prime-factors\obj\Debug\netcoreapp2.1\PrimeFactors.pdb

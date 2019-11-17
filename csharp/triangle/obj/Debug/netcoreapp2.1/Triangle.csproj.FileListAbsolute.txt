@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\Triangle.deps.json
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\Triangle.dll
+C:\Users\FredJ\Exercism\csharp\triangle\bin\Debug\netcoreapp2.1\Triangle.pdb
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.dll
+C:\Users\FredJ\Exercism\csharp\triangle\obj\Debug\netcoreapp2.1\Triangle.pdb

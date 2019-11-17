@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.deps.json
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.dll
+C:\Users\FredJ\Exercism\csharp\phone-number\bin\Debug\netcoreapp2.1\PhoneNumber.pdb
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.dll
+C:\Users\FredJ\Exercism\csharp\phone-number\obj\Debug\netcoreapp2.1\PhoneNumber.pdb

@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.deps.json
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\FredJ\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.pdb

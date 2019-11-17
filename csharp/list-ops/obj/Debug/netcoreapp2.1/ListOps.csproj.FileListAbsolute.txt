@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\ListOps.deps.json
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\ListOps.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\ListOps.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\ListOps.dll
+C:\Users\FredJ\Exercism\csharp\list-ops\bin\Debug\netcoreapp2.1\ListOps.pdb
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.dll
+C:\Users\FredJ\Exercism\csharp\list-ops\obj\Debug\netcoreapp2.1\ListOps.pdb

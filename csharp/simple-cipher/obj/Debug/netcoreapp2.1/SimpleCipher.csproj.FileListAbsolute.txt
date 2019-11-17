@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\SimpleCipher.deps.json
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\SimpleCipher.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\SimpleCipher.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\SimpleCipher.dll
+C:\Users\FredJ\Exercism\csharp\simple-cipher\bin\Debug\netcoreapp2.1\SimpleCipher.pdb
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.dll
+C:\Users\FredJ\Exercism\csharp\simple-cipher\obj\Debug\netcoreapp2.1\SimpleCipher.pdb

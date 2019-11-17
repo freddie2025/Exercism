@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\BeerSong.deps.json
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\BeerSong.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\BeerSong.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\BeerSong.dll
+C:\Users\FredJ\Exercism\csharp\beer-song\bin\Debug\netcoreapp2.1\BeerSong.pdb
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.dll
+C:\Users\FredJ\Exercism\csharp\beer-song\obj\Debug\netcoreapp2.1\BeerSong.pdb

@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\Series.deps.json
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\Series.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\Series.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\Series.dll
+C:\Users\FredJ\Exercism\csharp\series\bin\Debug\netcoreapp2.1\Series.pdb
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.dll
+C:\Users\FredJ\Exercism\csharp\series\obj\Debug\netcoreapp2.1\Series.pdb

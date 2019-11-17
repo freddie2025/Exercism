@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\ParallelLetterFrequency.deps.json
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\ParallelLetterFrequency.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\ParallelLetterFrequency.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\ParallelLetterFrequency.dll
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\bin\Debug\netcoreapp2.1\ParallelLetterFrequency.pdb
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.dll
+C:\Users\FredJ\Exercism\csharp\parallel-letter-frequency\obj\Debug\netcoreapp2.1\ParallelLetterFrequency.pdb

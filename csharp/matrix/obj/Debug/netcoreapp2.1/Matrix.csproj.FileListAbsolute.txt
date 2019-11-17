@@ -1,0 +1,14 @@
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\Matrix.deps.json
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.json
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.dev.json
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\Matrix.dll
+C:\Users\FredJ\Exercism\csharp\matrix\bin\Debug\netcoreapp2.1\Matrix.pdb
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.csprojAssemblyReference.cache
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfo.cs
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.dll
+C:\Users\FredJ\Exercism\csharp\matrix\obj\Debug\netcoreapp2.1\Matrix.pdb
