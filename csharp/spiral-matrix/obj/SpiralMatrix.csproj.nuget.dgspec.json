@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj": {}
+    "C:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj": {
+    "C:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj",
         "projectName": "SpiralMatrix",
-        "projectPath": "c:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj",
+        "projectPath": "C:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\SpiralMatrix.csproj",
         "packagesPath": "C:\\Users\\Fred James\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\obj\\",
+        "outputPath": "C:\\Users\\Fred James\\Exercism\\csharp\\spiral-matrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fred James\\AppData\\Roaming\\NuGet\\NuGet.Config",
