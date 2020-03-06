@@ -74,6 +74,7 @@ Repo for all my completed exercism challenges
 [Sublist](https://github.com/freddie2025/Exercism/tree/master/csharp/sublist)  
 [Sum of Multiples](https://github.com/freddie2025/Exercism/tree/master/csharp/sum-of-multiples)  
 [Tree Building](https://github.com/freddie2025/Exercism/tree/master/csharp/tree-building)  
+[Tournament](https://github.com/freddie2025/Exercism/tree/master/csharp/tournament)  
 [Triangle](https://github.com/freddie2025/Exercism/tree/master/csharp/triangle)  
 [Twelve Days](https://github.com/freddie2025/Exercism/tree/master/csharp/twelve-days)  
 [Two Fer](https://github.com/freddie2025/Exercism/tree/master/csharp/two-fer)  
