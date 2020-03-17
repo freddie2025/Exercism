@@ -3,16 +3,20 @@
 // convenience to get you started writing code faster.
 //
 
-export const age = (planet, totalSeconds) => {
-  return Number((totalSeconds / seconds / minutes / hours / days / earthYears[planet]).toFixed(2));
+export const age = (planet, seconds) => {
+  const earthYears = seconds / EARTH_YEAR_IN_SECONDS;
+  const years =  earthYears / ORBITAL_PERIOD_IN_EARTH_YEARS[planet];
+  
+  return formatNumberToTwoDecimalPlaces(years);
 };
 
-const seconds = 60; 
-const minutes = 60;
-const hours = 24;
-const days = 365.25;
+function formatNumberToTwoDecimalPlaces(number) {
+  return Number(number.toFixed(2));
+}
 
-const earthYears = 
+const EARTH_YEAR_IN_SECONDS = 31557600;
+
+const ORBITAL_PERIOD_IN_EARTH_YEARS = 
 {
   mercury: 0.2408467,
   venus: 0.61519726,
