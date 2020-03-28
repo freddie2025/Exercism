@@ -1,6 +1,7 @@
 # JavaScript
 
 ## Completed Challenges
+[Collatz Conjecture](https://github.com/freddie2025/Exercism/tree/master/javascript/collatz-conjecture)  
 [Gigasecond](https://github.com/freddie2025/Exercism/tree/master/javascript/gigasecond)  
 [Hello World](https://github.com/freddie2025/Exercism/tree/master/javascript/hello-world)  
 [Leap](https://github.com/freddie2025/Exercism/tree/master/javascript/leap)  
