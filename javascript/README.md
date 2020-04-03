@@ -3,6 +3,7 @@
 ## Completed Challenges
 [Clock](https://github.com/freddie2025/Exercism/tree/master/javascript/clock)  
 [Collatz Conjecture](https://github.com/freddie2025/Exercism/tree/master/javascript/collatz-conjecture)  
+[ETL](https://github.com/freddie2025/Exercism/tree/master/javascript/etl)  
 [Gigasecond](https://github.com/freddie2025/Exercism/tree/master/javascript/gigasecond)  
 [Hamming](https://github.com/freddie2025/Exercism/tree/master/javascript/gigasecond)  
 [Hello World](https://github.com/freddie2025/Exercism/tree/master/javascript/hamming)  
