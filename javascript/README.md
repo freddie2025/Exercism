@@ -14,6 +14,7 @@
 [Resistor Color Duo](https://github.com/freddie2025/Exercism/tree/master/javascript/resistor-color-duo)  
 [Reverse String](https://github.com/freddie2025/Exercism/tree/master/javascript/reverse-string)  
 [RNA Transcription](https://github.com/freddie2025/Exercism/tree/master/javascript/rna-transcription)  
+[Scrabble Score](https://github.com/freddie2025/Exercism/tree/master/javascript/scrabble-score)  
 [Space Age](https://github.com/freddie2025/Exercism/tree/master/javascript/space-age)  
 [Triangle](https://github.com/freddie2025/Exercism/tree/master/javascript/triangle)  
 [Two Fer](https://github.com/freddie2025/Exercism/tree/master/javascript/two-fer)  
