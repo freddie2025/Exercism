@@ -10,6 +10,7 @@
 [Leap](https://github.com/freddie2025/Exercism/tree/master/javascript/leap)  
 [Meetup](https://github.com/freddie2025/Exercism/tree/master/javascript/meetup)
 [Pangram](https://github.com/freddie2025/Exercism/tree/master/javascript/pangram)  
+[Raindrops](https://github.com/freddie2025/Exercism/tree/master/javascript/raindrops)  
 [Resistor Color](https://github.com/freddie2025/Exercism/tree/master/javascript/resistor-color)  
 [Resistor Color Duo](https://github.com/freddie2025/Exercism/tree/master/javascript/resistor-color-duo)  
 [Reverse String](https://github.com/freddie2025/Exercism/tree/master/javascript/reverse-string)  
