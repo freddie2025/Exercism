@@ -11,6 +11,7 @@
 [Meetup](https://github.com/freddie2025/Exercism/tree/master/javascript/meetup)  
 [Nucleotide Count](https://github.com/freddie2025/Exercism/tree/master/javascript/nucleotide-count)  
 [Pangram](https://github.com/freddie2025/Exercism/tree/master/javascript/pangram)  
+[Prime Factors](https://github.com/freddie2025/Exercism/tree/master/javascript/prime-factors)  
 [Raindrops](https://github.com/freddie2025/Exercism/tree/master/javascript/raindrops)  
 [Resistor Color](https://github.com/freddie2025/Exercism/tree/master/javascript/resistor-color)  
 [Resistor Color Duo](https://github.com/freddie2025/Exercism/tree/master/javascript/resistor-color-duo)  
